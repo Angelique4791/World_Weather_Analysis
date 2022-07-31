@@ -130,3 +130,6 @@ dmypy.json
 
 # Ignore csv files
 *.csv
+
+# Ignore config.py
+config.py
